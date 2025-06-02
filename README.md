@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Aida Fuentes
 
-<!--
-**Aida230/Aida230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Web Full Stack, apasionada por crear soluciones dinámicas y eficientes.
 
-Here are some ideas to get you started:
+🛠️ **Stack principal:**  
+- Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)
+- Backend: Node.js, Express.js, MongoDB, PostgreSQL
+- Herramientas: AWS EC2, NGINX, Jest, JWT, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente trabajando en:
+- Mejorar mis habilidades en DevOps y despliegue en la nube (AWS).
+- Nuevos proyectos personales usando MERN stack.
+
+📚 Siempre aprendiendo y buscando crecer en entornos colaborativos.
+
+📫 ¿Te gustaría trabajar conmigo?
+- [LinkedIn](https://www.linkedin.com/in/aida-fuentes-de-la-fuente-237278328/)
+- [Correo](mailto:afdlf2306@gmail.com)
+
+🌟 ¡Gracias por visitar mi perfil!
