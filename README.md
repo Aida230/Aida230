@@ -1,33 +1,33 @@
 # 👋 ¡Hola! Soy **Aida Fuentes**
 
-💻 **Desarrolladora Web Full Stack**, apasionada por crear soluciones dinámicas, eficientes y con impacto real.
+💻 **Junior Full Stack Web Developer (MERN)** con experiencia en el desarrollo de aplicaciones web completas y proyectos reales.  
+Trabajo principalmente con **React, Node.js y Express**, y he ampliado mi stack con **Next.js, TypeScript y PostgreSQL** en proyectos específicos.
 
 ---
 
-### 🛠️ Stack principal  
-- **Frontend:** React.js, Next.js, TypeScript, Axios, i18n, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)  
-- **Backend:** Node.js, Express.js, PostgreSQL, MySQL, SQLite, MongoDB Atlas, Zod, Postman  
-- **Herramientas y despliegue:** AWS EC2, NGINX, Docker & Docker Compose, Jest, JWT, REST APIs, Git, GitHub  
+## 🛠️ Stack principal  
+
+**Frontend**
+- React, Next.js, TypeScript
+- JavaScript (ES6+), Tailwind CSS
+
+**Backend & Databases**
+- Node.js, Express
+- PostgreSQL, MongoDB
+- Prisma, Zod
+
+**DevOps & Tools**
+- AWS EC2, Nginx
+- Git, GitHub, Postman
 
 ---
 
-### 🔭 Actualmente trabajando en  
-- 🚀 Desarrollar nuevos proyectos personales para seguir creciendo como desarrolladora Full Stack.  
-- ⚙️ Profundizar en **Next.js, TypeScript y Docker**, construyendo aplicaciones web modernas, escalables y bien estructuradas.  
-- 🧩 Formándome en **.NET y C#**, aplicando principios de **Programación Orientada a Objetos** para fortalecer mi perfil backend.  
+## 🔭 Actualmente
+- 🚀 Desarrollando proyectos personales para seguir creciendo como Full Stack Developer.
+- ⚙️ Profundizando en **Next.js, TypeScript y Docker**.
+- 🧩 Aprendiendo **.NET y C#** para ampliar mi base backend.
 
 ---
 
-### 📚 Siempre aprendiendo  
-Me encanta explorar nuevas tecnologías, mejorar mis habilidades y colaborar en proyectos que impulsen la innovación.
+📌 **Proyectos destacados y demos en mi portfolio**
 
----
-
-### 📫 ¿Te gustaría trabajar conmigo?
-- 💼 [LinkedIn](https://www.linkedin.com/in/aida-fuentes-de-la-fuente-237278328/)  
-- ✉️ [Correo](mailto:afdlf2306@gmail.com)  
-- 🌐 [Portafolio](https://port-folio-aida.vercel.app/)  
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
